@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Omar Mohamed Abdel-Aal</h1>
-<h3 align="center">A senior SBME student at the Faculty of Engineering - Cairo University who have a passion about frontend/Hybrid mobile</h3>
+<h3 align="center">A Fresh Graduate from Faculty of Engineering - Cairo University who have a passion about frontend/Hybrid mobile</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omarmohamed156&label=Profile%20views&color=0e75b6&style=flat" alt="omarmohamed156" /> </p>
 
