@@ -17,11 +17,11 @@
 
 - 📫 How to reach me **omar.abdel-aal00@eng-st.cu.edu.eg**
 
+- 📄 Know about my experiences [https://flowcv.com/resume/mwa7gava4b](https://flowcv.com/resume/mwa7gava4b)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/omar mohamed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="omar mohamed" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/omar mohamed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="omar mohamed" height="30" width="40" /></a>
-<a href="https://codesandbox.com/omar mohamed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="omar mohamed" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/omar-mohamed-339532234" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="omar-mohamed-339532234" height="30" width="40" /></a>
 <a href="https://fb.com/omar mohamed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="omar mohamed" height="30" width="40" /></a>
 </p>
 
