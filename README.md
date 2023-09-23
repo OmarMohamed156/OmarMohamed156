@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **TypeScript, Data Structures and Algorithms**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-omega-coral-88.vercel.app/](https://portfolio-omega-coral-88.vercel.app/)
+- 👨‍💻 All of my projects are available at [[https://portfolio-omega-coral-88.vercel.app/](https://portfolio-omega-coral-88.vercel.app/)](https://omarmohameddev.vercel.app/)
 
 - 💬 Ask me about **React, Next and everything related and in-between.**
 
